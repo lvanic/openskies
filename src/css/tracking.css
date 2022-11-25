@@ -1,0 +1,28 @@
+.secret_code_form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.info-item{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+}
+.secret_code_form_input{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    text-align: center;
+    
+}
+.secret_code_input{
+    margin-bottom: 10px;
+    height: 60px;
+    font-size: x-large ;
+}
+.secret_code_button{
+    height: 60px;
+}
+.secret_code_title{
+    font-size: x-large;
+}
